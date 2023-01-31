@@ -1,55 +1,61 @@
-# *Project title*
+# heading
 
-*Short description of your project, in one or two sentences.* 
+---
+## sub heading
 
-## Setup 
+1. Item 1
+2. Item 2
+3. Item 3
 
-### Dependencies
+*this text is italic*
 
-*Provide links and descriptions for the third-party libraries you're having your users install.*
+**this is bold text**
 
-### Installation
+[Link here](http://google.com)
 
-* Mac OS X
-* Ubuntu
-* Windows (if applicable)
+Onnennene<br/>
+FFsffffsff
 
-### Getting started
+fdfdfdffdffd
 
-*What does your user need to know to get everything ready after installation?*
-*Think about databases, config files, and settings.*
+Advancing the state-of-the-art in IT in such applications as cyber security and biometrics, NIST accelerates the development and **deployment of _systems_ that are reliable, usable, interoperable, and** secure; advances measurement science through innovations in mathematics, statistics, and ~~computer~~ science; and conducts research to develop the measurements and standards infrastructure for emerging information __technologies__ and ***applications***.
 
-## Usage
+- dfd fdfd
+  - dfdff
+  - dfffdf
+- dfff
 
-*Give your users a sense of the workflow for using your project/tool.*
-*For a website this might include code for running locally.*
-*For an API this might include method and parameter specs.*
+---
+1. dffffffd
 
-## Demo
+   dffffff
 
-*Grab a simple block of code that makes use of your project/tool and paste it here.*
+1. fgfgggfgg<br/>
+   1. gffgfgggg
+   2. vbbbbbb
+      + fdfdffd
+      - 22222 
+2. cvvvvvvv
 
-## Team
+some text [link](https://google.com)
 
-* *Name, Organization - role or tasks worked on*
+[link to help md](./README.md)
 
-*Add a "contributors" section if you've incorporated pull requests.*
+Advancing the state-of-the-art in IT in such applications as cyber security and biometrics, NIST accelerates the development and deployment of systems that are reliable, usable, interoperable, and secure; advances measurement science through [innovations][1] in mathematics, statistics, and computer science; and conducts research to develop the measurements and standards infrastructure for emerging information technologies and applications.
 
-## Errors and bugs
+[1]: (https://www.youtube.com/watch?v=FFBTGdEMrQ4)
 
-If something is not behaving intuitively, it is a bug and should be reported.
-Report it here by creating an issue: https://github.com/datamade/your-repo-here/issues
+![mardown_logo](https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/1200px-Markdown-mark.svg.png)
 
-Help us fix the problem as quickly as possible by following [Mozilla's guidelines for reporting bugs.](https://developer.mozilla.org/en-US/docs/Mozilla/QA/Bug_writing_guidelines#General_Outline_of_a_Bug_Report)
+Попробуй запустить `git pull`
 
-## Patches and pull requests
+```c#
+$ git pull ffppfpfpfpfpf
+$ git checkoiut -b some branch
+```
+| first | second | third |
+| :--- | ---:|:---: |
+| *name* | 123233233.32323233445 | desctription |
+| **name** | 123445 | desctription |
 
-Your patches are welcome. Here's our suggested workflow:
- 
-* Fork the project.
-* Make your feature addition or bug fix.
-* Send us a pull request with a description of your work. Bonus points for topic branches!
-
-## Copyright and attribution
-
-Copyright (c) 2016 DataMade. Released under the [MIT License](https://github.com/datamade/your-repo-here/blob/master/LICENSE).
+>Advancing the state-of-the-art in IT in such applications as cyber security and biometrics, NIST accelerates the development and deployment of systems that are reliable, usable, interoperable, and secure; advances measurement science through innovations in mathematics, statistics, and computer science; and conducts research to develop the measurements and standards infrastructure for emerging information technologies and applications.
